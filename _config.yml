@@ -2,4 +2,4 @@ title: "Doğuş Yiğit Elmalı Portfoilo"
 description: ""
 url: "https://dogusyigit.github.io"
 baseurl: ""
-remote_theme: jekyll-theme-forty
+remote_theme: andrewbanchich/forty-jekyll-theme
