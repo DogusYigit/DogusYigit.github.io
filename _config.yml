@@ -3,3 +3,18 @@ description: ""
 url: "https://dogusyigit.github.io"
 baseurl: ""
 remote_theme: andrewbanchich/forty-jekyll-theme
+
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
