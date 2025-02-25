@@ -1,1 +1,5 @@
-theme: jekyll-theme-forty
+title: "Doğuş Yiğit Elmalı Portfoilo"
+description: ""
+url: "https://dogusyigit.github.io"
+baseurl: ""
+remote_theme: jekyll-theme-forty
